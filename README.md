@@ -13,8 +13,8 @@ JobSift is a React Native mobile application built to showcase my mobile develop
 
 ## Screenshots
 
-> _Add screenshots here (e.g. `assets/screenshots/home.png`):_
->
+
+
 > ![Home Screen](assets/images/Home.png)
 > ![Job Details](assets/images/about-job.png)
 > ![Job Qualifications](assets/images/qualification-job.png)
